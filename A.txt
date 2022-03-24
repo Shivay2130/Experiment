@@ -5,4 +5,4 @@ Q: what's your name?shivam
 git reset --hard
 
 
-ehhhhvgchgc   check all push
+ehhhhvgchgc   check --all push
