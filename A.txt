@@ -21,3 +21,5 @@ check commit.template
 check core.editor
 
 unset values
+
+Check git revert
