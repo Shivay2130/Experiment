@@ -19,5 +19,3 @@ check chunk restore
 check commit.template
 
 check core.editor
-
-unset values
